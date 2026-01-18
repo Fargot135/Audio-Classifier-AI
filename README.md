@@ -474,11 +474,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👤 Author
 
-**Your Name**
+**Ivan Kachmar**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
+- GitHub: [@Fargot135](https://github.com/Fargot135)
+- LinkedIn: [Ivan Kachmar](www.linkedin.com/in/ivan-kachmar-b161b3337)
 ---
 
 ## 🙏 Acknowledgments
